@@ -6,6 +6,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 def load_analyzer():
     return SentimentIntensityAnalyzer()
 
+
 analyzer = load_analyzer()
 
 # ===== Use VADER to get sentiment score =====

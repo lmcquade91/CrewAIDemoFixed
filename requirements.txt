@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+joblib
+transformers
+torch
+gdown
+dill
+vaderSentiment
